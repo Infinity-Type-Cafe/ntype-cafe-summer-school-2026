@@ -1,9 +1,6 @@
 name: Migrate summer school site to 2026
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 permissions:
