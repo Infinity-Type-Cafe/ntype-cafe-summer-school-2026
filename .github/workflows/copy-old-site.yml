@@ -1,0 +1,22 @@
+name: One-time copy of previous summer school site
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Copy source main branch into this repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TARGET_REPOSITORY: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          git clone --bare --single-branch --branch main https://github.com/Infinity-Type-Cafe/ntype-cafe-summer-school.git source.git
+          git --git-dir=source.git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${TARGET_REPOSITORY}.git" main:main
