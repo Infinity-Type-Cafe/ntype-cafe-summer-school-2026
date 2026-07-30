@@ -27,6 +27,7 @@ jobs:
               cp -r /repo/learn-TT /srv/jekyll
               cd /srv/jekyll
               jekyll build
+              find _site -type f \( -name "*.html" -o -name "*.xml" -o -name "*.css" -o -name "*.js" \) -exec sed -i "s#/ntype-cafe-summer-school/#/ntype-cafe-summer-school-2026/#g" {} +
               mkdir -p /repo/_build_site
               cp -r _site/* /repo/_build_site/
               cp -r /repo/resources/agda-zorn /repo/_build_site/
