@@ -23,7 +23,7 @@ jobs:
             sh -lc '
               set -e
               cp -r /source/* /srv/jekyll
-              cp /repo/2023/intro-page/* /srv/jekyll/_posts/
+              cp /repo/*/intro-page/* /srv/jekyll/_posts/
               cp -r /repo/learn-TT /srv/jekyll
               cd /srv/jekyll
               jekyll build
