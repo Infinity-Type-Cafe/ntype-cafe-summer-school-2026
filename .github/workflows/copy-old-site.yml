@@ -1,30 +1,112 @@
-name: One-time copy of previous summer school site
+name: Migrate summer school site to 2026
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  copy:
+  migrate:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out target repository
+      - name: Check out the new 2026 repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
 
-      - name: Copy source files except workflow definitions
+      - name: Replace the legacy year in tracked text and paths
+        shell: bash
         run: |
           set -euo pipefail
-          git clone --depth 1 --branch main https://github.com/Infinity-Type-Cafe/ntype-cafe-summer-school.git "$RUNNER_TEMP/source"
-          rsync -a --delete --exclude ".git/" --exclude ".github/workflows/" "$RUNNER_TEMP/source/" ./
+          python3 - <<'PY'
+          import os
+          import re
+          import subprocess
+          from pathlib import Path
+
+          old_year = "20" + "23"
+          new_year = "2026"
+
+          def tracked_files():
+              raw = subprocess.check_output(["git", "ls-files", "-z"])
+              return [
+                  Path(os.fsdecode(item))
+                  for item in raw.split(b"\0")
+                  if item
+              ]
+
+          def is_workflow(path):
+              return len(path.parts) >= 2 and path.parts[:2] == (".github", "workflows")
+
+          changed_text = 0
+          for path in tracked_files():
+              if path.is_symlink() or is_workflow(path):
+                  continue
+              data = path.read_bytes()
+              try:
+                  text = data.decode("utf-8")
+              except UnicodeDecodeError:
+                  continue
+
+              updated = text.replace(old_year, new_year)
+              updated = re.sub(
+                  r"ntype-cafe-summer-school(?!-2026)",
+                  "ntype-cafe-summer-school-2026",
+                  updated,
+              )
+              if updated != text:
+                  path.write_bytes(updated.encode("utf-8"))
+                  changed_text += 1
+
+          renamed_paths = 0
+          for source in sorted(
+              (path for path in tracked_files() if old_year in str(path)),
+              key=lambda path: len(path.parts),
+              reverse=True,
+          ):
+              destination = Path(str(source).replace(old_year, new_year))
+              destination.parent.mkdir(parents=True, exist_ok=True)
+              subprocess.run(
+                  ["git", "mv", "--", str(source), str(destination)],
+                  check=True,
+              )
+              renamed_paths += 1
+
+          remaining_paths = [
+              str(path) for path in tracked_files() if old_year in str(path)
+          ]
+          remaining_text = []
+          for path in tracked_files():
+              if path.is_symlink():
+                  continue
+              data = path.read_bytes()
+              try:
+                  text = data.decode("utf-8")
+              except UnicodeDecodeError:
+                  continue
+              if old_year in text:
+                  remaining_text.append(str(path))
+
+          if remaining_paths or remaining_text:
+              raise SystemExit(
+                  f"Migration incomplete. Paths: {remaining_paths}; text: {remaining_text}"
+              )
+
+          print(f"Updated {changed_text} text files and renamed {renamed_paths} paths.")
+          PY
+
+      - name: Commit the year migration
+        shell: bash
+        run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m "Copy previous summer school site"
+          if git diff --cached --quiet; then
+            echo "Nothing left to migrate."
+            exit 0
+          fi
+          git commit -m "Update summer school site for 2026"
           git push origin main
