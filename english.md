@@ -100,22 +100,11 @@ From August 24 to 30, we plan to organize online–offline collaborative events 
 ## People
 
 ### Lecturers
-* [oCaU](https://github.com/choukh)
-* [子鱼](https://github.com/subfish-zhou)
-* [Trebor](https://github.com/Trebor-Huang)
-* [千里冰封](https://github.com/ice1000)
-* [无懈可击99](https://github.com/dudubao2007)
-* Alias Qli [GitHub](https://github.com/AliasQli) [Email](mailto:alias@qliphoth.tech)
-* [Gestellmensch](https://github.com/iamcxds)
 * Cha0sButterf1y
+* [Gestellmensch](https://github.com/iamcxds)
+* 天行狸🐱
 * kokic
-* [Anqur](https://github.com/anqurvanillapy)
-* [面皮](https://github.com/Mepy)
-* [林子篆](https://github.com/dannypsnl)
-* [天生万物以养人](https://github.com/xuanruiqi)
-* [魔理沙](https://github.com/MarisaKirisame)
-* [游客账户0x0](https://github.com/Guest0x0)
-* [kang](https://github.com/kangrongji)
+* [子鱼](https://github.com/subfish-zhou)
 
 In addition to the online Q&A sessions for courses and talks, participants may contact the lecturers using the details above or join the summer-school group (QQ group number 791437680) to ask questions. By seeking help from a lecturer, you consent to our making your questions and the corresponding answers public in summer-school-related materials, including but not limited to recorded videos and the summer-school website.
 
