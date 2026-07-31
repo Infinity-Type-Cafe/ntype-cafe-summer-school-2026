@@ -30,8 +30,6 @@ A brief introduction to type theory by Thorsten Altenkirch:
 * **Piazza classroom (for questions and discussion)**: [Piazza](https://piazza.com/infinity_type_cafe/summer2026/ntypecafe2026) (also available through the QQ group and Discord above)
 * **Bilibili**: [Infinity Type Café](https://space.bilibili.com/3494366737861355), [Geek Academy](https://space.bilibili.com/451615707)
 * **GitHub**: [ntype-cafe-summer-school-2026](https://github.com/Infinity-Type-Cafe/ntype-cafe-summer-school-2026)
-* **Participant survey**: [Please be sure to complete it](https://wj.qq.com/s2/12514980/c73d/)
-* **Participant availability survey**: [Survey link](https://wj.qq.com/s2/12622167/bd07/)
 
 ## Intended Audience
 * Students who would like to learn what type theory is about;
