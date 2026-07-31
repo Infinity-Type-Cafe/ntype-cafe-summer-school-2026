@@ -43,9 +43,9 @@ This series begins on August 7, 2026, and covers infinity categories, AI4Math, H
 
 | Date | Time | Speaker | Topic |
 | --- | --- | --- | --- |
-| August 7 (Friday) | TBA | To be announced | Infinity Categories I |
-| August 8 (Saturday) | TBA | To be announced | Infinity Categories II |
-| August 9 (Sunday) | TBA | To be announced | Infinity Categories III |
+| August 7 (Friday) | TBA | Cha0sButterf1y | Infinity Categories I |
+| August 8 (Saturday) | TBA | Cha0sButterf1y | Infinity Categories II |
+| August 9 (Sunday) | TBA | Cha0sButterf1y | Infinity Categories III |
 | August 12 (Wednesday) | TBA | Gestellmensch | 0=1−1=−1+1=0 |
 | August 13 (Thursday) | TBA | 天行狸🐱 | SNL and Documentation Management |
 | August 15 (Saturday) | TBA | kokic | Challenges Facing AI4Math |
@@ -125,6 +125,7 @@ We warmly welcome all participants to share the topics they would like to hear a
 * [无懈可击99](https://github.com/dudubao2007)
 * Alias Qli [GitHub](https://github.com/AliasQli) [Email](mailto:alias@qliphoth.tech)
 * [Gestellmensch](https://github.com/iamcxds)
+* Cha0sButterf1y
 * kokic
 * [Anqur](https://github.com/anqurvanillapy)
 * [面皮](https://github.com/Mepy)
