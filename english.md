@@ -61,24 +61,6 @@ This series begins on August 7, 2026, and covers infinity categories, AI4Math, H
 From August 24 to 30, we plan to organize online–offline collaborative events with the AI4Math + Lean Summer School at Shanghai Jiao Tong University. The in-person courses will not be livestreamed. Instead, on selected evenings from 19:00 to 21:00, participants at the in-person school will be invited to join the online community in an individual capacity. These sessions may include presentations by community members, questions and discussion on Type Theory, Lean 4, and AI4Math, as well as exchanges of projects and research ideas. Further details will be announced once confirmed.
 
 ## Talks Currently Requested by Participants
-* *A Roadmap for Learning Type Theory* (We hope the speaker will describe their own journey in learning type theory. Ideally, each stage would cover the main difficulties, how to overcome them, and recommended books, papers, and other resources.)
-* *Nails in Cubical Agda* (Please introduce a beautiful, approachable niche area that does not require extensive prerequisites. Example: <https://arxiv.org/pdf/2208.03844.pdf#page22>)
-* *The Design Philosophy of Type Theory: How Should We Judge Different Designs?*
-* *An Introduction to Homotopy Type Theory as a Foundation for Mathematics, from the Perspective of the Philosophy of Mathematics or Mathematical Logic*
-* *An Introduction to Type Theory* (suitable for complete beginners)
-* *How to Implement a Type System in Code* (for complete beginners)
-* *Categorical Semantics* (for ATP algorithm design; for MLTT and Cubical)
-* *Advanced HoTT* (We hope this could cover high-level and intuitive material—for example, how HoTT developed or was constructed, why homotopy theory was introduced, and what useful results it has produced.)
-* *An Introduction to Cubical*
-* *Applications of Type Theory* (such as the questions raised in the outlook section of *A Brief History of Type Theory*, as well as serious consideration of industrial applications of type theory)
-* *(Efficient) Implementations of Type Systems* (for example, an implementation of MLTT type checking)
-* *Synthetic Mathematics*
-* *Homotopy Type Theory and Its Applications in Mathematics*
-* *What Advantages Does Homotopy Type Theory Have over ZFC?*
-* *Applications of Type Theory in Computer Security* (for example, blockchain and software security)
-* *Hands-On Work with the mathlib Project*
-
-We warmly welcome all participants to share the topics they would like to hear about!
 
 ## Frequently Asked Questions
 
