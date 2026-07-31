@@ -19,50 +19,6 @@ To quote 狗先生, the owner of the Infinity Type Café group:
 A brief introduction to type theory by Thorsten Altenkirch:
 <iframe width="420" height="315" src="https://player.bilibili.com/player.html?aid=229312966&bvid=BV1o8411f7Xt&cid=1150574396&page=1&autoplay=0" frameborder="0" allowfullscreen></iframe>
 
-## Glimpses of the Summer School
-
-From July 2 to July 31; from 100+ attendees at the first class to a steady 30+; from fewer than 100 members in the summer school group to 500 today; from 0 followers on Bilibili to 1000 (the Infinity Type Café Bilibili account has now more or less been permanently archived) ...  
-
-We would especially like to thank every lecturer. To be honest, without their volunteering to step forward, the summer school would never have been so splendid and diverse.
-
-When we first invited proposals for talk topics, 子鱼 was the first person to volunteer, followed immediately by oCaU. Their support gave us two talk topics right at the beginning of the organizing process and the confidence to keep the summer school going. During the summer school, oCaU taught one foundational course and gave two talks all by himself. Bear in mind that ocau is a very busy employee and father; accomplishing this was far from easy, so his talks were usually scheduled in the evenings and on weekends.
-
-Next came the café’s resident expert, Trebor. In the group, you could always see him helping members solve all kinds of problems, leaving you to marvel at just how much Trebor knows. During the summer school, Trebor taught one foundational course and gave three talks all by himself—truly formidable. When Trebor first began teaching, he was still recovering from a cold. You could tell from the way he spoke that he was not feeling well, yet he persevered and finished everything on schedule.
-
-Then 千里冰封 arrived with his talk material. He was the one who established the importance of course notes, leading to the creation of one beautifully prepared set of notes after another. During the summer school, 千里冰封 taught one foundational course and gave one talk all by himself. Because he was abroad, his sessions were held in the evening to accommodate the time difference—but for him, they began at eight in the morning.
-
-There was originally no foundational-course component, but once we considered the needs of the whole audience, it became clear that one was essential. oCau, Trebor, and 千里冰封 were the first to confirm that they would teach. Then Alias Qli and 无懈可击99 volunteered to take on two more courses. At that point, one fairly important course still had no lecturer, and 面皮 stepped forward just when we needed help most. Finally, qxr(天生万物以养人) joined at short notice, and kang brought us a new course. We still remember Alias Qli staying up all night to make slides. He said that this was the first class of the summer school, and an essential one, so he had a responsibility to teach it well. We remember 无懈可击99 saying that he wanted to write the best Chinese-language HoTT tutorial. We remember 面皮’s nearly 30mb set of notes. We remember qxr calling himself the “Brother Jun of type theory.” And we remember kang’s little yellow duck and the cheerful classroom atmosphere in which he would often be unable to keep a straight face halfway through a lecture.
-
-This summer school featured 13 talk topics, 12 proposed voluntarily by their speakers and one given by invitation. We invited 子篆 from Taiwan by email; the process went surprisingly smoothly, yet in the end we never had the chance to thank him properly. The topics presented by the final three speakers—Anqur, 游客账户0x0, and 魔理沙—were probably the most approachable for students from computer science backgrounds. This was also part of the modest balance we hoped to achieve with the summer school: bringing interesting knowledge to a wider range of people. Last but not least was 狗先生. We were all able to come together because he created the café, and it was his encouragement that made this summer school possible. We believe that the notes, slides, and lectures into which these instructors poured so much time and effort will continue to influence generation after generation of learners!
-
-We would also like to express our special thanks to our organizers: afu for collecting talk proposals; 暮秋 for processing the records of every meeting; 茗洛 for providing unlimited Tencent Meeting access; conway for providing the Infinity Type Café Bilibili account; LiangHillon for recording every meeting; and toaster for helping organize the latter part of the summer school.
-
-That should cover all the wonderful people involved in the summer school—as well as the audience members who stayed with us throughout the month. We remember every one of you!
-
-Here are a few words left by some members of the audience, lecturers, and organizers:
-
-> Many thanks to all the staff and lecturers for your generous contributions and patient answers. It is hard to imagine that, in a country as large as China, fewer than 500 people are involved in this field. Yet that is precisely why the future holds such broad possibilities. I hope type theory can bring new directions to mathematics and engineering! -- From an unknown someone <br>
-
-> Type "(me : 5eqn) → (上了暑校 me → 0) → 是民科 me" is inhabited. Writing it this way was just for fun; once natural language gets involved, it was never going to be completely rigorous anyway, so please do not scrutinize the definitions too closely... But the summer school truly did save me from many detours. For example, without it, I have no idea how long it would have taken me to work out metavariable solving... and there are many more examples like that. The summer school successfully set me on the right track in what is—at least for now—my favorite field. Good work. -- 5eqn <br>
-
-> Many thanks to this summer school (both the organizers and the teachers) for giving people who want to learn about type theory a platform (^-^). Otherwise, studying from books alone might have been extremely inefficient. I also hope there will be more events like this in the future. Finally, let me wish everyone an early Happy New Year～  -- BYNT <br>
-
-> I am truly delighted to have taken part in this event! My first encounter with the field was through the Natural Number Game. Later, with help from several friends, I learned about type theory and then about this event------there were many twists and turns along the way, and I took plenty of detours, but fortunately I eventually found what I had been looking for from the beginning. I am deeply grateful to the friends who helped me and to the organizers and lecturers of this summer school. Without you, what a wonderful thing I would have missed! Out of gratitude, I helped a little with organizational arrangements during the second half of the summer school, contributing what modest effort I could. I hope there will be more events like this in the future, and I wish that travelers who, like me, have lost their way will ultimately reach the destination their hearts seek :) -- From an unknown someone <br>
-
-> I have a modest grasp of mathematics and know a little category theory, but I could hardly claim even a modest grasp of logic or computer science. This summer school gave me a preliminary understanding of these subjects and how they relate to one another—what a privilege! Thank you for all your hard work, hosts and lecturers! -- From an unknown someone <br>
-
-> The courses in this summer school were wonderfully engaging and required very little prior knowledge—even primary-school students could follow them. That was seriously awesome! Synthetic homotopy theory/homotopy type theory was especially good: it enabled people unfamiliar with topology to gain some intuition for homotopy theory. Beyond the courses, the summer school also included talks, some of which worked very well as extensions of and inspiration for the course material. For example, 游客账户’s implementation of mltt made it seem instantly clear~~—until you tried to write it yourself~~. Trebor’s category theory lectures were also very good; unfortunately, I still could not master the subject. --From an unknown someone <br>
-
-> Thank you to all the lecturers for your efforts. Studying under your guidance and using the carefully prepared notes was both more efficient and more enjoyable than learning on my own. I hope meaningful and valuable educational exchanges like this can take place every year. -- From an unknown someone <br>
-
-> Homotopy type theory is a highly niche field, and Chinese-language resources are scarce. Yet it is precisely this mystery and rarity that make it so extraordinary. We organized this summer school in order to explore this fascinating field. Most people will not ultimately study homotopy type theory in depth, but that was never the final goal. We hope this school can bring everyone some inspiration and enjoyment. And do not forget: no matter how dark the world may become, there are always people creating astonishing points of light in corners you may never notice. -- kang <br>
-
-> The café’s campfire is wonderfully warm. The light brought by the lecturers and students has illuminated one corner of the profound universe of knowledge. This has become one of the periods of my life for which I am most grateful and which I will find hardest to forget. -- From an unknown someone <br>
-
-> I have seen far too many “online teachers,” in China and abroad, begin by offering basic education for free, only to stop updating their material or abandon their original intentions by launching paid courses and “learning-method courses” designed to fleece their audience. By contrast, the summer school remained entirely non-profit while sharing material that was both close to the research frontier and intellectually substantial, all at a considerable scale—no easy feat. Because of time constraints, I never watched any sessions live and saw only two or three recordings, but I could still feel the care and enthusiasm of every summer school teacher. More important to me than the cutting-edge theories to which the summer school introduced me were the other things it offered: the resolve to provide free public-interest courses in a specialist field without fearing low short-term view counts, and the courage to venture where no one had gone before and share specialized knowledge. I once made a free course myself (on number theory), but having a video receive fewer than 100 views after a week was truly discouraging, and I eventually stopped because I no longer had the time. Seeing how well this summer school turned out makes me think that perhaps I should try recording some free courses again. I wish the summer school ever greater success! -- 学数学的wunderlich, eighteenth day of the sixth month of the Yinmao year <br>
-
-Every ending is another beginning. We look forward to the next summer school!
-
 ## Key Information
 
 * **Official start date**: July 2, 2026
@@ -406,4 +362,3 @@ In addition to the online Q&A sessions for courses and talks, participants may c
 * [toaster](https://github.com/RedBlack23)
 
 Thanks!
-
