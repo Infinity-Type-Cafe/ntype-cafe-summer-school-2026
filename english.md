@@ -23,7 +23,7 @@ A brief introduction to type theory by Thorsten Altenkirch:
 ## Key Information
 
 * **Official start date**: August 7, 2026
-* **Class times**: To be announced
+* **Class times**: 19:00–21:00 China Standard Time by default; any changes will be announced separately
 * **Calendar**: [Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=e8b0bdd4a3cfc83cf7f9f8d2fb75ebdee86886a33a6f6c86abf3c7f0033d4022@group.calendar.google.com&ctz=Asia/Shanghai)
 * **QQ group**: 791437680
 * **Discord**: [Join](https://discord.gg/K59PZ6HmFC)
@@ -39,22 +39,22 @@ A brief introduction to type theory by Thorsten Altenkirch:
 
 ## August Courses and Collaborative Events
 
-This series begins on August 7, 2026, and covers infinity categories, AI4Math, HOL, tactic writing, and the future of mathematical research. Unless otherwise noted, exact times and participation details will be announced later.
+This series begins on August 7, 2026, and covers infinity categories, AI4Math, HOL, tactic writing, and the future of mathematical research. Classes are scheduled by default for 19:00–21:00 China Standard Time; any changes will be announced separately, and participation details will follow.
 
 | Date | Time | Speaker | Topic |
 | --- | --- | --- | --- |
-| August 7 (Friday) | TBA | Cha0sButterf1y | Infinity Categories I |
-| August 8 (Saturday) | TBA | Cha0sButterf1y | Infinity Categories II |
-| August 9 (Sunday) | TBA | Cha0sButterf1y | Infinity Categories III |
-| August 12 (Wednesday) | TBA | Gestellmensch | 0=1−1=−1+1=0 |
-| August 13 (Thursday) | TBA | 天行狸🐱 | SNL and Documentation Management |
-| August 15 (Saturday) | TBA | kokic | Challenges Facing AI4Math |
-| August 16 (Sunday) | TBA | kokic | The Path Chosen by HOL |
-| August 19 (Wednesday) | TBA | 子鱼 | A Way Forward for AI4Math |
-| August 20 (Thursday) | TBA | 子鱼 | How to Write Tactics I |
-| August 22 (Saturday) | TBA | 子鱼 | How to Write Tactics II |
-| August 24 (Monday) | Afternoon (tentative) | 子鱼 | How to Write Tactics III |
-| August 29 (Saturday) | TBA | Gestellmensch | Can We Still Spend a Lifetime Doing Mathematical Research? |
+| August 7 (Friday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories I |
+| August 8 (Saturday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories II |
+| August 9 (Sunday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories III |
+| August 12 (Wednesday) | 19:00–21:00 | Gestellmensch | 0=1−1=−1+1=0 |
+| August 13 (Thursday) | 19:00–21:00 | 天行狸🐱 | SNL and Documentation Management |
+| August 15 (Saturday) | 19:00–21:00 | kokic | Challenges Facing AI4Math |
+| August 16 (Sunday) | 19:00–21:00 | kokic | The Path Chosen by HOL |
+| August 19 (Wednesday) | 19:00–21:00 | 子鱼 | A Way Forward for AI4Math |
+| August 20 (Thursday) | 19:00–21:00 | 子鱼 | How to Write Tactics I |
+| August 22 (Saturday) | 19:00–21:00 | 子鱼 | How to Write Tactics II |
+| August 24 (Monday) | 19:00–21:00 | 子鱼 | How to Write Tactics III |
+| August 29 (Saturday) | 19:00–21:00 | Gestellmensch | Can We Still Spend a Lifetime Doing Mathematical Research? |
 
 ### Collaboration with the SJTU AI4Math + Lean Summer School
 
