@@ -32,10 +32,10 @@ A brief introduction to type theory by Thorsten Altenkirch:
 * **GitHub**: [ntype-cafe-summer-school-2026](https://github.com/Infinity-Type-Cafe/ntype-cafe-summer-school-2026)
 
 ## Intended Audience
-* Students who would like to learn what type theory is about;
-* Students who would like to study and use type theory;
-* Students with some background in type theory who would like to take the next step;
-* Students already familiar with type theory who would like to discuss its past, present, and future with us.
+* Students interested in infinity categories and their connections with type theory and modern mathematics;
+* Students who would like to learn about HOL, tactic writing, and formal proof methods;
+* Students interested in the challenges and possible directions of AI4Math, and in how artificial intelligence may contribute to mathematical research;
+* Students interested in both the everyday practice and long-term future of mathematics, including SNL, documentation management, and the question “Can We Still Spend a Lifetime Doing Mathematical Research?”
 
 ## August Courses and Collaborative Events
 
