@@ -78,7 +78,7 @@ From August 24 to 30, we plan to organize online–offline collaborative events 
 
 4. How can people outside China participate despite the time difference?<br>
 
-   We currently plan to hold sessions in the afternoons and evenings in the China time zone. Participants should arrange their schedules accordingly. If an unavoidable scheduling conflict arises, please see Q2 and Q3.
+   Classes are scheduled by default from 19:00 to 21:00 China Standard Time; any changes will be announced separately. Participants should arrange their schedules accordingly. If an unavoidable scheduling conflict arises, please see Q2 and Q3.
 
 5. Can exercises or assignments be provided after class?<br>
 
