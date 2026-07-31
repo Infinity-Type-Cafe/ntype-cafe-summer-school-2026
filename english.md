@@ -6,7 +6,7 @@ lang: en
 date: 2026-07-31
 ---
 
-The ∞-type Café Summer School 2026 will officially begin on August 7, 2026. This is the second edition of the summer school ([First Summer School](https://infinity-type-cafe.github.io/ntype-cafe-summer-school))!
+The ∞-type Café Summer School 2026 will officially begin on August 6, 2026. This is the second edition of the summer school ([First Summer School](https://infinity-type-cafe.github.io/ntype-cafe-summer-school))!
 
 What is type theory? Born in logic, it grew up in mathematics, blossomed in computer science, and bore fruit in programming languages. It spans several closely intertwined disciplines. In mathematics, it has emerged as a new foundation for the subject, alongside set theory and category theory. In computer science, the word “type” immediately brings to mind the many kinds of programming languages in which types help compilers or interpreters perform compile-time checks. The emergence of the Curry–Howard correspondence prompted us to reconsider types, and the propositions-as-types perspective gave rise to type-based interactive proof assistants. It has become possible to write the proof of a concrete problem as a program—but to write such a program, one must first learn and become comfortable with the language it uses. On this point, students of both mathematics and computer science face their own difficulties. Mathematics students may first need to overcome the hurdle of programming, while computer science students may find the underlying mathematical foundations equally challenging. After overcoming countless difficulties, you finally write a program that a proof assistant accepts—but have you ever asked yourself whether it really is a proof? Are the functions defined in it well-defined? Are the objects constructed in it reasonable? Are the techniques it uses valid? Questions like these will keep pushing you forward, farther and farther...
 
@@ -22,7 +22,7 @@ A brief introduction to type theory by Thorsten Altenkirch:
 
 ## Key Information
 
-* **Official start date**: August 7, 2026
+* **Official start date**: August 6, 2026
 * **Class times**: 19:00–21:00 China Standard Time by default; any changes will be announced separately
 * **Calendar**: [Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=e8b0bdd4a3cfc83cf7f9f8d2fb75ebdee86886a33a6f6c86abf3c7f0033d4022@group.calendar.google.com&ctz=Asia/Shanghai)
 * **QQ group**: 791437680
@@ -39,13 +39,13 @@ A brief introduction to type theory by Thorsten Altenkirch:
 
 ## August Courses and Collaborative Events
 
-This series begins on August 7, 2026, and covers infinity categories, AI4Math, HOL, tactic writing, and the future of mathematical research. Classes are scheduled by default for 19:00–21:00 China Standard Time; any changes will be announced separately, and participation details will follow.
+This series begins on August 6, 2026, and covers infinity categories, AI4Math, HOL, tactic writing, and the future of mathematical research. Classes are scheduled by default for 19:00–21:00 China Standard Time; any changes will be announced separately, and participation details will follow.
 
 | Date | Time | Speaker | Topic |
 | --- | --- | --- | --- |
-| August 7 (Friday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories I |
-| August 8 (Saturday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories II |
-| August 9 (Sunday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories III |
+| August 6 (Thursday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories I |
+| August 7 (Friday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories II |
+| August 8 (Saturday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories III |
 | August 12 (Wednesday) | 19:00–21:00 | Gestellmensch | 0=1−1=−1+1=0 |
 | August 13 (Thursday) | 19:00–21:00 | 天行狸🐱 | SNL and Documentation Management |
 | August 15 (Saturday) | 19:00–21:00 | kokic | Challenges Facing AI4Math |
