@@ -54,7 +54,7 @@ This series begins on August 6, 2026, and covers infinity categories, AI4Math, H
 | August 20 (Thursday) | 19:00–21:00 | 子鱼 | How to Write Tactics I |
 | August 22 (Saturday) | 19:00–21:00 | 子鱼 | How to Write Tactics II |
 | August 24 (Monday) | 19:00–21:00 | 子鱼 | How to Write Tactics III |
-| August 29 (Saturday) | 19:00–21:00 | Gestellmensch | Can We Still Spend a Lifetime Doing Mathematical Research? |
+| August 30 (Sunday) | 09:00–11:00 | Gestellmensch | Can We Still Spend a Lifetime Doing Mathematical Research? |
 
 ### Collaboration with the SJTU AI4Math + Lean Summer School
 
