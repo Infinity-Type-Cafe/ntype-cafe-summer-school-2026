@@ -109,13 +109,8 @@ In addition to the online Q&A sessions for courses and talks, participants may c
 
 ### Organizers
 
-* [maplgebra](https://github.com/m4p1e)
-* [韩暮秋](https://github.com/muqiuhan)
-* [茗洛](https://github.com/MingLLuo)
-* conway
-* [LiangHillon](https://github.com/lianghillon)
-* afu
-* [toaster](https://github.com/RedBlack23)
+* [兔狲](https://yapengzhao-math.github.io/)
+* 明剑照霜
 
 Thanks!
 
