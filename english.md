@@ -6,19 +6,15 @@ lang: en
 date: 2026-07-31
 ---
 
-The ∞-type Café Summer School 2026 will officially begin on August 6, 2026. This is the second edition of the summer school ([First Summer School](https://infinity-type-cafe.github.io/ntype-cafe-summer-school))!
+The ∞-type Café Summer School 2026 will officially begin on August 6, 2026. This is our second summer school and an online event centered on modern mathematics, formal proof, and AI4Math.
 
-What is type theory? Born in logic, it grew up in mathematics, blossomed in computer science, and bore fruit in programming languages. It spans several closely intertwined disciplines. In mathematics, it has emerged as a new foundation for the subject, alongside set theory and category theory. In computer science, the word “type” immediately brings to mind the many kinds of programming languages in which types help compilers or interpreters perform compile-time checks. The emergence of the Curry–Howard correspondence prompted us to reconsider types, and the propositions-as-types perspective gave rise to type-based interactive proof assistants. It has become possible to write the proof of a concrete problem as a program—but to write such a program, one must first learn and become comfortable with the language it uses. On this point, students of both mathematics and computer science face their own difficulties. Mathematics students may first need to overcome the hurdle of programming, while computer science students may find the underlying mathematical foundations equally challenging. After overcoming countless difficulties, you finally write a program that a proof assistant accepts—but have you ever asked yourself whether it really is a proof? Are the functions defined in it well-defined? Are the objects constructed in it reasonable? Are the techniques it uses valid? Questions like these will keep pushing you forward, farther and farther...
+This year's program seeks to explore a broader question: as type theory, category theory, automated theorem proving, and artificial intelligence increasingly converge in mathematical research, what can we do, and what difficulties will we encounter?
 
-One day, a beginner may happen upon type theory and begin exploring it. Their path will surely be full of twists and turns, because that is how we began as well. Through this event, we hope to help more students who want to study type theory, or simply learn what types are about. In return, we will also make more friends. That is our simple and sincere vision.
+From August 24 to 30, we also plan to organize online–offline collaborative activities with the Shanghai Jiao Tong University AI4Math + Lean Summer School.
 
-To quote 狗先生, the owner of the Infinity Type Café group:
+We do not expect every participant to have already mastered all the relevant background. Whether you are interested in infinity categories, type theory, HOL, Lean, AI4Math, or are thinking about the tools, methods, and future of mathematical research, you are welcome to bring your questions.
 
-   > On a cold night, two children lit a campfire, and more and more lost children gathered around it. They felt immeasurably happy.<br> 
-   > When day broke, the children gradually found their own paths and left one by one. But they would never forget the campfire that had once kept them warm.
-
-A brief introduction to type theory by Thorsten Altenkirch:
-<iframe width="420" height="315" src="https://player.bilibili.com/player.html?aid=229312966&bvid=BV1o8411f7Xt&cid=1150574396&page=1&autoplay=0" frameborder="0" allowfullscreen></iframe>
+We hope this summer school will be more than a series of courses: a place where participants can exchange knowledge, ask questions, share ideas, and meet peers.
 
 ## Key Information
 
