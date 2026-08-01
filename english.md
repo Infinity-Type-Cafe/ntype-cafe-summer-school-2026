@@ -6,7 +6,7 @@ lang: en
 date: 2026-07-31
 ---
 
-The ∞-type Café Summer School 2026 will officially begin on August 6, 2026. This is our second summer school and an online event centered on modern mathematics, formal proof, and AI4Math.
+The ∞-type Café Summer School 2026 will officially begin on August 6, 2026. This is our second summer school ([first edition](https://infinity-type-cafe.github.io/ntype-cafe-summer-school/)) and an online event centered on modern mathematics, formal proof, and AI4Math.
 
 This year's program seeks to explore a broader question: as type theory, category theory, automated theorem proving, and artificial intelligence increasingly converge in mathematical research, what can we do, and what difficulties will we encounter?
 
