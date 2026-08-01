@@ -42,15 +42,15 @@ This series begins on August 6, 2026, and covers infinity categories, AI4Math, H
 | August 6 (Thursday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories I |
 | August 7 (Friday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories II |
 | August 8 (Saturday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories III |
-| August 12 (Wednesday) | 19:00–21:00 | Gestellmensch | 0=1−1=−1+1=0 |
+| August 12 (Wednesday) | 19:00–21:00 | [Gestellmensch](https://github.com/iamcxds) | 0=1−1=−1+1=0 |
 | August 13 (Thursday) | 19:00–21:00 | 天行狸🐱 | SNL and Documentation Management |
 | August 15 (Saturday) | 19:00–21:00 | kokic | Challenges Facing AI4Math |
 | August 16 (Sunday) | 19:00–21:00 | kokic | The Path Chosen by HOL |
-| August 19 (Wednesday) | 19:00–21:00 | 子鱼 | A Way Forward for AI4Math |
-| August 20 (Thursday) | 19:00–21:00 | 子鱼 | How to Write Tactics I |
-| August 22 (Saturday) | 19:00–21:00 | 子鱼 | How to Write Tactics II |
-| August 24 (Monday) | 19:00–21:00 | 子鱼 | How to Write Tactics III |
-| August 30 (Sunday) | 09:00–11:00 | Gestellmensch | Can We Still Spend a Lifetime Doing Mathematical Research? |
+| August 19 (Wednesday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | A Way Forward for AI4Math |
+| August 20 (Thursday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | How to Write Tactics I |
+| August 22 (Saturday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | How to Write Tactics II |
+| August 24 (Monday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | How to Write Tactics III |
+| August 30 (Sunday) | 09:00–11:00 | [Gestellmensch](https://github.com/iamcxds) | Can We Still Spend a Lifetime Doing Mathematical Research? |
 
 ### Collaboration with the SJTU AI4Math + Lean Summer School
 
