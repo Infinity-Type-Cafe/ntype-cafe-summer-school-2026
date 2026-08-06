@@ -111,7 +111,8 @@ In addition to the online Q&A sessions for courses and talks, participants may c
 
 * [兔狲](https://yapengzhao-math.github.io/)
 * [明剑照霜](https://chunyunmuxue.github.io/)
-* ★獨 裁 者★
+* 张龙奇
+* Windshear
 
 Thanks!
 
