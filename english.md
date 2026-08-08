@@ -20,6 +20,7 @@ We hope this summer school will be more than a series of courses: a place where 
 
 * **Official start date**: August 6, 2026
 * **Class times**: 19:00–21:00 China Standard Time by default; any changes will be announced separately
+* **Tencent Meeting (used for every class)**: [Join the meeting](https://meeting.tencent.com/p/5987479669)
 * **Calendar**: [Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=e8b0bdd4a3cfc83cf7f9f8d2fb75ebdee86886a33a6f6c86abf3c7f0033d4022@group.calendar.google.com&ctz=Asia/Shanghai)
 * **QQ group**: 1015828456
 * **Discord**: [Join](https://discord.gg/K59PZ6HmFC)
@@ -35,7 +36,7 @@ We hope this summer school will be more than a series of courses: a place where 
 
 ## August Courses and Collaborative Events
 
-This series begins on August 6, 2026, and covers infinity categories, AI4Math, HOL, tactic writing, and the future of mathematical research. Classes are scheduled by default for 19:00–21:00 China Standard Time; any changes will be announced separately, and participation details will follow.
+This series begins on August 6, 2026, and covers infinity categories, AI4Math, HOL, tactic writing, and the future of mathematical research. Classes are scheduled by default for 19:00–21:00 China Standard Time; any changes will be announced separately. Every class uses the same [Tencent Meeting link](https://meeting.tencent.com/p/5987479669).
 
 | Date | Time | Speaker | Topic |
 | --- | --- | --- | --- |
