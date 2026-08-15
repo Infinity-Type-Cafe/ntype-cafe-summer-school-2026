@@ -112,12 +112,9 @@ In addition to the online Q&A sessions for courses and talks, participants may c
 
 * [兔狲](https://yapengzhao-math.github.io/)
 * [明剑照霜](https://chunyunmuxue.github.io/)
+* 单纯猫𝒮.𝒞𝒶𝓉
 * 张龙奇
 * Windshear
-
-### Meeting Link Provider
-
-* 单纯猫𝒮.Cat
 
 Thanks!
 
