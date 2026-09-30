@@ -38,20 +38,17 @@ We hope this summer school will be more than a series of courses: a place where 
 
 This series begins on August 6, 2026, and covers infinity categories, AI4Math, HOL, tactic writing, and the future of mathematical research. Classes are scheduled by default for 19:00–21:00 China Standard Time; any changes will be announced separately. Every class uses the same [Tencent Meeting link](https://meeting.tencent.com/p/5987479669).
 
-| Date | Time | Speaker | Topic |
-| --- | --- | --- | --- |
-| August 6 (Thursday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories I |
-| August 7 (Friday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories II |
-| August 8 (Saturday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories III |
-| August 12 (Wednesday) | 19:00–21:00 | [Gestellmensch](https://github.com/iamcxds) | 0=1−1=−1+1=0 |
-| August 13 (Thursday) | 19:00–21:00 | 天行狸🐱 | SNL and Documentation Management |
-| August 15 (Saturday) | 19:00–21:00 | kokic | Challenges Facing AI4Math |
-| August 16 (Sunday) | 19:00–21:00 | kokic | The Path Chosen by HOL |
-| August 19 (Wednesday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | A Way Forward for AI4Math |
-| August 20 (Thursday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | How to Write Tactics I |
-| August 22 (Saturday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | How to Write Tactics II |
-| August 24 (Monday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | How to Write Tactics III |
-| August 30 (Sunday) | 09:00–11:00 | [Gestellmensch](https://github.com/iamcxds) | Can We Still Spend a Lifetime Doing Mathematical Research? |
+| Date | Time | Speaker | Topic | Recording |
+| --- | --- | --- | --- | --- |
+| August 6 (Thursday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories I | [Watch](https://www.bilibili.com/video/BV16vu46iE5J/) |
+| August 7 (Friday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories II | [Watch](https://www.bilibili.com/video/BV1QCuC6NEuU/) |
+| August 8 (Saturday) | 19:00–21:00 | Cha0sButterf1y | Infinity Categories III | [Watch](https://www.bilibili.com/video/BV1usba67EW8/) |
+| August 12 (Wednesday) | 19:00–21:00 | [Gestellmensch](https://github.com/iamcxds) | 0=1−1=−1+1=0 | [Watch](https://www.bilibili.com/video/BV1Gjba6XEWo/) |
+| August 13 (Thursday) | 19:00–21:00 | 天行狸🐱 | SNL and Documentation Management | [Watch](https://www.bilibili.com/video/BV1VLba6WE8x/) |
+| August 15 (Saturday) | 19:00–21:00 | kokic | Challenges Facing AI4Math | [Watch](https://www.bilibili.com/video/BV1GEba6HEw1/) |
+| August 16 (Sunday) | 19:00–21:00 | kokic | The Path Chosen by HOL | [Watch](https://www.bilibili.com/video/BV13Eba6HEYm/) |
+| August 19 (Wednesday) | 19:00–21:00 | [子鱼](https://github.com/subfish-zhou) | A Way Forward for AI4Math | [Watch](https://www.bilibili.com/video/BV1Qsan6bETu/) |
+| August 30 (Sunday) | 09:00–11:00 | [Gestellmensch](https://github.com/iamcxds) | Can We Still Spend a Lifetime Doing Mathematical Research? | [Watch](https://www.bilibili.com/video/BV1SyaJ6dEZK/) |
 
 ### Collaboration with the SJTU AI4Math + Lean Summer School
 
